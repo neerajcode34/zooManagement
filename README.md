@@ -25,7 +25,7 @@ The project is organized as follows:
 
 ## Hosted Link
 
-The project is currently hosted at [https://your-hosted-link.com](http://wildzoo.infinityfreeapp.com/zms/index.php). Visit the link to explore the WildGuard Zoo Management Project live!
+The project is currently hosted at [WildGuard](http://wildzoo.infinityfreeapp.com/zms/index.php). Visit the link to explore the WildGuard Zoo Management Project live!
 
 ## Contributing
 
